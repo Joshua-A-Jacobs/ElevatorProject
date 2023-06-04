@@ -12,3 +12,5 @@ Putting in "call" followed by a number and direction is to simulate pushing a bu
 
 Example: Inputting "call 5 down" will bring the elevator to the fifth floor with the intention of going down. It will skip over this floor if it is currently going to a floor above you.
 Another example would be "call 0 up", this would be calling the elevator at the ground floor with the intention of going up.
+
+Lastly, you can input "exit" to quit out of the program.
